@@ -63,8 +63,8 @@ class TempBackground extends StatelessWidget {
               style: TextStyle(
                 fontFamily: 'Ubuntu',
                 fontWeight: FontWeight.w300,
-                color: Colors.black87,
-                fontSize: 35.0 * this.sizeFactor,
+                color: Colors.white70,
+                fontSize: 32.0 * this.sizeFactor,
               ),
             )
           ],
