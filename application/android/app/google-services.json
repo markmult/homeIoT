@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569353921631",
+    "firebase_url": "https://homeiot-a3dff.firebaseio.com",
+    "project_id": "homeiot-a3dff",
+    "storage_bucket": "homeiot-a3dff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569353921631:android:8d9983394fcaa6c8fce7ea",
+        "android_client_info": {
+          "package_name": "com.markus.homeiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569353921631-iquee3ulkoicggv33aldo8lkej5pjfn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnbCIdNPIKnwkJ2z5UClWGjrsCFEfJdyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569353921631-iquee3ulkoicggv33aldo8lkej5pjfn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
