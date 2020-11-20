@@ -2,7 +2,7 @@
 #include <ESP8266WiFi.h>
 #include <DHT.h>
                           
-#define FIREBASE_HOST "homeiot-a3dff.firebaseio.com"              // Database addres from Firebase
+#define FIREBASE_HOST "homeiot-*****.firebaseio.com"              // Database addres from Firebase
 #define FIREBASE_AUTH "*****************************"             // Secret key from Firebase
 
 #define WIFI_SSID "TP-Link ****"                                  // Wifi SSID
